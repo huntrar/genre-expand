@@ -1,0 +1,3 @@
+argparse==1.2.1
+eyed3==0.7.9
+wikipedia==1.4.0
