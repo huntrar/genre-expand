@@ -56,11 +56,12 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'genre-expand = genre_expand.genre_expand:command_line_runner',
+            'genre-expand = genre_expand.genre-expand:command_line_runner',
         ]
     },
     install_requires=[
         'eyed3',
+        'six',
         'wikipedia'
     ]
 )

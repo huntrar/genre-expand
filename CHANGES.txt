@@ -1,3 +1,9 @@
+0.0.2
+------
+
+- Fixed location of script entry point
+- Added six module to dependency requirements
+
 0.0.1
 ------
 
