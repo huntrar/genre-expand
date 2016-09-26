@@ -33,7 +33,7 @@ Usage
 
 ::
 
-    usage: genre-expand.py [-h] -d SEARCH_DIR [-r] [-l LEVEL] [-f] [-s] [-m] [-q]
+    usage: genre_expand.py [-h] -d SEARCH_DIR [-r] [-l LEVEL] [-f] [-s] [-m] [-q]
                            [-v]
 
     expand ID3 genre metadata
