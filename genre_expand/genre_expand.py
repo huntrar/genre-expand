@@ -4,7 +4,7 @@
     written by Hunter Hammond (huntrar@gmail.com)
 """
 
-from __future__ import 
+from __future__ import absolute_import, print_function
 import argparse as argp
 import os
 import sys

@@ -1,3 +1,9 @@
+0.0.4
+------
+
+- Added six to requirements.txt as well
+- Added missing future imports
+
 0.0.3
 ------
 
